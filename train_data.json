@@ -1,1 +1,1 @@
-{"rect": [], "transaction": ["11-09-26 22:33:34 - Shubham Bhoria booked Boston  Exp", "11-09-26 22:33:37 - Canceled Shubham Bhoria and Boston  Exp"], "stc": 1, "sct": 1}
+{"rect": ["ravi gupta  and  Tokyo bullet", "Rahul sharma and Boston Exp"], "transaction": ["11-09-26 22:33:34 - Shubham Bhoria booked Boston  Exp", "11-09-26 22:33:37 - Canceled Shubham Bhoria and Boston  Exp", "11-09-26 23:02:17 - ravi gupta  booked  Tokyo bullet", "11-09-26 23:02:35 - Rahul sharma booked Boston Exp"], "stc": 3, "sct": 1}
